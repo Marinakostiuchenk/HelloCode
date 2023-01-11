@@ -1,0 +1,15 @@
+/Users/marinavojtisina/Desktop/examples/example005_conditional_ifelse/bin/Debug/net6.0/example005_conditional_ifelse
+/Users/marinavojtisina/Desktop/examples/example005_conditional_ifelse/bin/Debug/net6.0/example005_conditional_ifelse.deps.json
+/Users/marinavojtisina/Desktop/examples/example005_conditional_ifelse/bin/Debug/net6.0/example005_conditional_ifelse.runtimeconfig.json
+/Users/marinavojtisina/Desktop/examples/example005_conditional_ifelse/bin/Debug/net6.0/example005_conditional_ifelse.dll
+/Users/marinavojtisina/Desktop/examples/example005_conditional_ifelse/bin/Debug/net6.0/example005_conditional_ifelse.pdb
+/Users/marinavojtisina/Desktop/examples/example005_conditional_ifelse/obj/Debug/net6.0/example005_conditional_ifelse.csproj.AssemblyReference.cache
+/Users/marinavojtisina/Desktop/examples/example005_conditional_ifelse/obj/Debug/net6.0/example005_conditional_ifelse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinavojtisina/Desktop/examples/example005_conditional_ifelse/obj/Debug/net6.0/example005_conditional_ifelse.AssemblyInfoInputs.cache
+/Users/marinavojtisina/Desktop/examples/example005_conditional_ifelse/obj/Debug/net6.0/example005_conditional_ifelse.AssemblyInfo.cs
+/Users/marinavojtisina/Desktop/examples/example005_conditional_ifelse/obj/Debug/net6.0/example005_conditional_ifelse.csproj.CoreCompileInputs.cache
+/Users/marinavojtisina/Desktop/examples/example005_conditional_ifelse/obj/Debug/net6.0/example005_conditional_ifelse.dll
+/Users/marinavojtisina/Desktop/examples/example005_conditional_ifelse/obj/Debug/net6.0/refint/example005_conditional_ifelse.dll
+/Users/marinavojtisina/Desktop/examples/example005_conditional_ifelse/obj/Debug/net6.0/example005_conditional_ifelse.pdb
+/Users/marinavojtisina/Desktop/examples/example005_conditional_ifelse/obj/Debug/net6.0/example005_conditional_ifelse.genruntimeconfig.cache
+/Users/marinavojtisina/Desktop/examples/example005_conditional_ifelse/obj/Debug/net6.0/ref/example005_conditional_ifelse.dll
