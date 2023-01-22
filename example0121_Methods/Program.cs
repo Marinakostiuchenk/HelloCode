@@ -5,3 +5,4 @@
         Console.WriteLine($"{i} * {j} = {i*j}"); //Интерполяция
     }
     Console.WriteLine(); //пустая строка для красоты
+}
