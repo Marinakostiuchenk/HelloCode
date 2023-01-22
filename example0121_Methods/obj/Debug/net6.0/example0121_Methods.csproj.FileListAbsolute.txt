@@ -1,0 +1,15 @@
+/Users/marinavojtisina/Desktop/examples/example0121_Methods/bin/Debug/net6.0/example0121_Methods
+/Users/marinavojtisina/Desktop/examples/example0121_Methods/bin/Debug/net6.0/example0121_Methods.deps.json
+/Users/marinavojtisina/Desktop/examples/example0121_Methods/bin/Debug/net6.0/example0121_Methods.runtimeconfig.json
+/Users/marinavojtisina/Desktop/examples/example0121_Methods/bin/Debug/net6.0/example0121_Methods.dll
+/Users/marinavojtisina/Desktop/examples/example0121_Methods/bin/Debug/net6.0/example0121_Methods.pdb
+/Users/marinavojtisina/Desktop/examples/example0121_Methods/obj/Debug/net6.0/example0121_Methods.csproj.AssemblyReference.cache
+/Users/marinavojtisina/Desktop/examples/example0121_Methods/obj/Debug/net6.0/example0121_Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinavojtisina/Desktop/examples/example0121_Methods/obj/Debug/net6.0/example0121_Methods.AssemblyInfoInputs.cache
+/Users/marinavojtisina/Desktop/examples/example0121_Methods/obj/Debug/net6.0/example0121_Methods.AssemblyInfo.cs
+/Users/marinavojtisina/Desktop/examples/example0121_Methods/obj/Debug/net6.0/example0121_Methods.csproj.CoreCompileInputs.cache
+/Users/marinavojtisina/Desktop/examples/example0121_Methods/obj/Debug/net6.0/example0121_Methods.dll
+/Users/marinavojtisina/Desktop/examples/example0121_Methods/obj/Debug/net6.0/refint/example0121_Methods.dll
+/Users/marinavojtisina/Desktop/examples/example0121_Methods/obj/Debug/net6.0/example0121_Methods.pdb
+/Users/marinavojtisina/Desktop/examples/example0121_Methods/obj/Debug/net6.0/example0121_Methods.genruntimeconfig.cache
+/Users/marinavojtisina/Desktop/examples/example0121_Methods/obj/Debug/net6.0/ref/example0121_Methods.dll
