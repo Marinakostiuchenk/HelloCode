@@ -1,0 +1,15 @@
+/Users/marinavojtisina/Desktop/examples/example004_Div/bin/Debug/net6.0/example004_Div
+/Users/marinavojtisina/Desktop/examples/example004_Div/bin/Debug/net6.0/example004_Div.deps.json
+/Users/marinavojtisina/Desktop/examples/example004_Div/bin/Debug/net6.0/example004_Div.runtimeconfig.json
+/Users/marinavojtisina/Desktop/examples/example004_Div/bin/Debug/net6.0/example004_Div.dll
+/Users/marinavojtisina/Desktop/examples/example004_Div/bin/Debug/net6.0/example004_Div.pdb
+/Users/marinavojtisina/Desktop/examples/example004_Div/obj/Debug/net6.0/example004_Div.csproj.AssemblyReference.cache
+/Users/marinavojtisina/Desktop/examples/example004_Div/obj/Debug/net6.0/example004_Div.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinavojtisina/Desktop/examples/example004_Div/obj/Debug/net6.0/example004_Div.AssemblyInfoInputs.cache
+/Users/marinavojtisina/Desktop/examples/example004_Div/obj/Debug/net6.0/example004_Div.AssemblyInfo.cs
+/Users/marinavojtisina/Desktop/examples/example004_Div/obj/Debug/net6.0/example004_Div.csproj.CoreCompileInputs.cache
+/Users/marinavojtisina/Desktop/examples/example004_Div/obj/Debug/net6.0/example004_Div.dll
+/Users/marinavojtisina/Desktop/examples/example004_Div/obj/Debug/net6.0/refint/example004_Div.dll
+/Users/marinavojtisina/Desktop/examples/example004_Div/obj/Debug/net6.0/example004_Div.pdb
+/Users/marinavojtisina/Desktop/examples/example004_Div/obj/Debug/net6.0/example004_Div.genruntimeconfig.cache
+/Users/marinavojtisina/Desktop/examples/example004_Div/obj/Debug/net6.0/ref/example004_Div.dll

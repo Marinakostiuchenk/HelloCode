@@ -1,0 +1,15 @@
+/Users/marinavojtisina/Desktop/examples/example010_MethodArray/bin/Debug/net6.0/example010_MethodArray
+/Users/marinavojtisina/Desktop/examples/example010_MethodArray/bin/Debug/net6.0/example010_MethodArray.deps.json
+/Users/marinavojtisina/Desktop/examples/example010_MethodArray/bin/Debug/net6.0/example010_MethodArray.runtimeconfig.json
+/Users/marinavojtisina/Desktop/examples/example010_MethodArray/bin/Debug/net6.0/example010_MethodArray.dll
+/Users/marinavojtisina/Desktop/examples/example010_MethodArray/bin/Debug/net6.0/example010_MethodArray.pdb
+/Users/marinavojtisina/Desktop/examples/example010_MethodArray/obj/Debug/net6.0/example010_MethodArray.csproj.AssemblyReference.cache
+/Users/marinavojtisina/Desktop/examples/example010_MethodArray/obj/Debug/net6.0/example010_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinavojtisina/Desktop/examples/example010_MethodArray/obj/Debug/net6.0/example010_MethodArray.AssemblyInfoInputs.cache
+/Users/marinavojtisina/Desktop/examples/example010_MethodArray/obj/Debug/net6.0/example010_MethodArray.AssemblyInfo.cs
+/Users/marinavojtisina/Desktop/examples/example010_MethodArray/obj/Debug/net6.0/example010_MethodArray.csproj.CoreCompileInputs.cache
+/Users/marinavojtisina/Desktop/examples/example010_MethodArray/obj/Debug/net6.0/example010_MethodArray.dll
+/Users/marinavojtisina/Desktop/examples/example010_MethodArray/obj/Debug/net6.0/refint/example010_MethodArray.dll
+/Users/marinavojtisina/Desktop/examples/example010_MethodArray/obj/Debug/net6.0/example010_MethodArray.pdb
+/Users/marinavojtisina/Desktop/examples/example010_MethodArray/obj/Debug/net6.0/example010_MethodArray.genruntimeconfig.cache
+/Users/marinavojtisina/Desktop/examples/example010_MethodArray/obj/Debug/net6.0/ref/example010_MethodArray.dll

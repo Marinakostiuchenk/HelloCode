@@ -1,0 +1,15 @@
+/Users/marinavojtisina/Desktop/examples/example011_ArrayLibrary/obj/Debug/net6.0/example011_ArrayLibrary.csproj.AssemblyReference.cache
+/Users/marinavojtisina/Desktop/examples/example011_ArrayLibrary/obj/Debug/net6.0/example011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/marinavojtisina/Desktop/examples/example011_ArrayLibrary/obj/Debug/net6.0/example011_ArrayLibrary.AssemblyInfoInputs.cache
+/Users/marinavojtisina/Desktop/examples/example011_ArrayLibrary/obj/Debug/net6.0/example011_ArrayLibrary.AssemblyInfo.cs
+/Users/marinavojtisina/Desktop/examples/example011_ArrayLibrary/obj/Debug/net6.0/example011_ArrayLibrary.csproj.CoreCompileInputs.cache
+/Users/marinavojtisina/Desktop/examples/example011_ArrayLibrary/bin/Debug/net6.0/example011_ArrayLibrary
+/Users/marinavojtisina/Desktop/examples/example011_ArrayLibrary/bin/Debug/net6.0/example011_ArrayLibrary.deps.json
+/Users/marinavojtisina/Desktop/examples/example011_ArrayLibrary/bin/Debug/net6.0/example011_ArrayLibrary.runtimeconfig.json
+/Users/marinavojtisina/Desktop/examples/example011_ArrayLibrary/bin/Debug/net6.0/example011_ArrayLibrary.dll
+/Users/marinavojtisina/Desktop/examples/example011_ArrayLibrary/bin/Debug/net6.0/example011_ArrayLibrary.pdb
+/Users/marinavojtisina/Desktop/examples/example011_ArrayLibrary/obj/Debug/net6.0/example011_ArrayLibrary.dll
+/Users/marinavojtisina/Desktop/examples/example011_ArrayLibrary/obj/Debug/net6.0/refint/example011_ArrayLibrary.dll
+/Users/marinavojtisina/Desktop/examples/example011_ArrayLibrary/obj/Debug/net6.0/example011_ArrayLibrary.pdb
+/Users/marinavojtisina/Desktop/examples/example011_ArrayLibrary/obj/Debug/net6.0/example011_ArrayLibrary.genruntimeconfig.cache
+/Users/marinavojtisina/Desktop/examples/example011_ArrayLibrary/obj/Debug/net6.0/ref/example011_ArrayLibrary.dll
