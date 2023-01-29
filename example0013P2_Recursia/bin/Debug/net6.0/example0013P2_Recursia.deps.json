@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "example0013P2_Recursia/1.0.0": {
+        "runtime": {
+          "example0013P2_Recursia.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "example0013P2_Recursia/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
